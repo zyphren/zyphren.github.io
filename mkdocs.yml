@@ -24,20 +24,17 @@ theme:
   
 # 网站导航（自定义菜单）
 nav:
-  # 一级分类1（对应顶部横向标签：“第一个页面”）
-  - 第一个页面:
+  # 第一个页面:
       - 第一个页面: index.md  # 侧边栏的“第一个页面”
-  # 一级分类2（对应顶部横向标签：“第二个页面”）
-  - 第二个页面:
+  # 第二个页面:
       - 关于我: about.md
       - 课程指引: course-guide.md
       - Python学习: python-study.md 
-  # 一级分类3（对应顶部横向标签：“第三个页面”）
-  - 论文:
+  # 论文:
        - 论文阅读: papers.md
-  - 杂项:
+  # 杂项:
        - 杂项专题: others.md
-  - 友链: friends.md
+  # 友链: friends.md
 
 plugins:
   - search:
@@ -94,6 +91,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
 
 
 
