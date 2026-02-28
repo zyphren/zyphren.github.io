@@ -1,4 +1,3 @@
-# 网站标题
 site_name: 我的个人网站
 announcement: "🎉 欢迎访问我的网站！"
 theme:
@@ -21,20 +20,19 @@ theme:
       toggle:
         icon: material/weather-night  # 暗色模式图标（月亮）
         name: 切换到亮色模式
-  
-# 网站导航（自定义菜单）
+
 nav:
-  # 第一个页面:
-      - 第一个页面: index.md  # 侧边栏的“第一个页面”
-  # 第二个页面:
-      - 关于我: about.md
-      - 课程指引: course-guide.md
-      - Python学习: python-study.md 
-  # 论文:
-       - 论文阅读: papers.md
-  # 杂项:
-       - 杂项专题: others.md
-  # 友链: friends.md
+  - 主页:
+    - index.md
+    - 关于我：about.md
+    - 课程指引：course-guide.md
+    - Python 学习：python-study.md
+  - 第二个页面：second.md
+  - 第三个页面：third.md
+  - 论文:
+    - 论文阅读：papers.md
+  - 杂项：others.md
+  - 友链：friends.md
 
 plugins:
   - search:
@@ -91,6 +89,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
 
 
 
