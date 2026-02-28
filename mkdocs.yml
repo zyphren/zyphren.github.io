@@ -1,0 +1,118 @@
+# 网站标题
+site_name: 我的个人网站
+announcement: "🎉 欢迎访问我的网站！"
+theme:
+  name: material
+  language: zh  # 中文
+  palette:
+    # 亮色（白色）默认主题
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-sunny  # 亮色模式图标（太阳）
+        name: 切换到暗色模式
+    # 暗色（黑色）主题
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate  # 暗色主题核心配置
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night  # 暗色模式图标（月亮）
+        name: 切换到亮色模式
+  
+# 网站导航（自定义菜单）
+nav:
+  # 一级分类1（对应顶部横向标签：“第一个页面”）
+  - 第一个页面:
+      - 第一个页面: index.md  # 侧边栏的“第一个页面”
+  # 一级分类2（对应顶部横向标签：“第二个页面”）
+  - 第二个页面:
+      - 关于我: about.md
+      - 课程指引: course-guide.md
+      - Python学习: python-study.md 
+  # 一级分类3（对应顶部横向标签：“第三个页面”）
+  - 论文:
+       - 论文阅读: papers.md
+  - 杂项:
+       - 杂项专题: others.md
+  - 友链: friends.md
+
+plugins:
+  - search:
+  - blog: #博客配置
+      post_date_format: full #时间
+      draft: true
+      draft_if_future_date: true #自动将具有未来日期的帖子标记为草稿
+      post_readtime: true
+      post_readtime_words_per_minute: 265 #计算帖子的阅读时间时读者每分钟预计阅读的字数
+      post_url_format: "{date}/{slug}"
+      # categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+      #   kwds:
+      #     case: lower
+      pagination_url_format: "page/{page}"
+      authors_file: "{blog}/.authors.yml" #作者信息
+
+markdown_extensions:
+  - admonition  # 基础提示块
+  - pymdownx.details  # 折叠/展开块
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  # - meta # 支持Markdown文件上方自定义标题标签等
+  - pymdownx.caret
+  - pymdownx.betterem
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format:
+            !!python/name:pymdownx.superfences.fence_code_format # 代码块高亮插件
+  - pymdownx.arithmatex: # latex支持
+      generic: true
+  - toc:
+      permalink: true # 固定标题位置为当前位置
+  - pymdownx.highlight: # 代码块高亮
+      anchor_linenums: true
+      linenums: true # 显示行号
+      # auto_title: true # 显示编程语言名称
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
