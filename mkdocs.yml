@@ -27,12 +27,16 @@ nav:
     - 关于我：about.md
     - 课程指引：course-guide.md
     - Python 学习：python-study.md
-  - 第二个页面：second.md
-  - 第三个页面：third.md
+  - 第二个页面：
+    - 第二个： second.md
+  - 第三个页面：
+    - 第三个：third.md
   - 论文:
     - 论文阅读：papers.md
-  - 杂项：others.md
-  - 友链：friends.md
+  - 杂项：
+    - others.md
+  - 友链：
+    - friends.md
 
 plugins:
   - search:
@@ -89,6 +93,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
 
 
 
