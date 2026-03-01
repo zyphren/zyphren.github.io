@@ -29,12 +29,8 @@ nav:
         - course-guide.md
         - python-study.md
         - NOTE：
-          - friends.md
-          - note: friends.md
-  - 第二个页面:
-      - 第二个:second.md
-  - 第三个页面:
-      - 第三个:third.md
+          - 第二个:second.md
+          - 第三个:third.md
   - 论文:
       - 论文阅读:papers.md
   - 杂项:
@@ -98,6 +94,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
 
 
 
