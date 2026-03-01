@@ -68,13 +68,7 @@ plugins:
       authors_file: "{blog}/.authors.yml"
   - glightbox
   - statistics
-  - termynal:
-      title: ""
-      buttons: macos  # 显示 macOS 风格的红黄绿按钮
-      prompt_literal_start:
-        - "$"
-        - ">"
-        - "%"
+
     
 markdown_extensions:
   - toc:
@@ -122,6 +116,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
     
+
 
 
 
