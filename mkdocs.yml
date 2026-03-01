@@ -40,8 +40,10 @@ nav:
       - 首页: index.md
       - 关于我: about.md
       - 课程指引:
+          - TEST.md
           - 课程概览: course-guide.md
           - Python 学习: python-study.md
+      -  Sparke: sparke.md
   - 📚 第二个页面: second.md
   - 📄 第三个页面: third.md
   - 📝 论文:
@@ -108,4 +110,5 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
 
