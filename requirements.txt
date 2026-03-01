@@ -15,9 +15,6 @@ mkdocs-git-revision-date-localized-plugin>=1.2.0
 # 图片灯箱放大效果
 mkdocs-glightbox>=0.3.0
 
-# 终端模拟器
-mkdocs-termynal-plugin>=0.1.0
-
 # 访问统计
 mkdocs-statistics-plugin>=0.1.0
 
