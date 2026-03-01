@@ -22,21 +22,18 @@ theme:
         name: 切换到亮色模式
 
 nav:
-  - Home: index.md
-  - FIRST PAGE:
+  - 🏡 主页:
+      - 首页：index.md
       - 关于我：about.md
       - 课程指引:
-          - 课程指引：course-guide.md
+          - 课程概览：course-guide.md
           - Python 学习：python-study.md
-          - NOTE:
-              - 第二个：second.md
-              - 第三个：third.md
-  - 论文:
+  - 📚 第二个页面：second.md
+  - 📄 第三个页面：third.md
+  - 📝 论文:
       - 论文阅读：papers.md
-  - 杂项:
-      - 杂项专题：others.md
-  - 友链:
-      - 友情链接：friends.md
+  - 🎲 杂项：others.md
+  - 🔗 友链：friends.md
 
 
 plugins:
@@ -94,6 +91,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
 
 
 
