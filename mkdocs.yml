@@ -43,7 +43,7 @@ nav:
           - TEST.md
           - 课程概览: course-guide.md
           - Python 学习: python-study.md
-      -  Sparke: sparke.md
+      - Sparke: sparke.md
   - 📚 第二个页面: second.md
   - 📄 第三个页面: third.md
   - 📝 论文:
@@ -66,12 +66,23 @@ plugins:
       post_url_format: "{date}/{slug}"
       pagination_url_format: "page/{page}"
       authors_file: "{blog}/.authors.yml"
-
+  - glightbox
+  - statistics
+  - termynal:
+      title: ""
+      buttons: macos  # 显示 macOS 风格的红黄绿按钮
+      prompt_literal_start:
+        - "$"
+        - ">"
+        - "%"
+    
 markdown_extensions:
   - toc:
       permalink: true
       slugify: !!python/name:pymdownx.slugs.uslugify
   - admonition
+  - neoteroi.cards
+  - neoteroi.timeline
   - pymdownx.details
   - abbr
   - attr_list
@@ -110,5 +121,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+    
+
 
 
