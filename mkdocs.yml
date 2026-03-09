@@ -44,7 +44,8 @@ nav:
   - 🏡 主页:
       - About: about.md
       - Sparkle: trial.md
-  - 📚 第二个页面: second.md
+  - 📚 第二个页面: 
+        - TSET: second.md
         - INDEX: TEST.md
         - 课程概览: course-guide.md
         - Python 学习: python-study.md
@@ -119,6 +120,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
     
+
 
 
 
