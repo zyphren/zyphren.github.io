@@ -1,6 +1,13 @@
-# 我的第一个MkDocs网站
-这是我用MkDocs搭建的静态网站，超简单！
+# Welcome to  Zyphren's notebook! 
 
-## 导航测试
-- 这是一级标题
-- 这是二级内容
+
+!!! abstract
+
+    本站是基于mkdocs搭建的个人博客，记录了一些笔记与总结。
+
+
+
+# Table of Contents
+
+仍在建设终
+
