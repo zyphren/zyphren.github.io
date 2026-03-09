@@ -9,8 +9,8 @@
 
 # Table of Contents
 
-- [ ]仍在建设中
-- [ ]Typst
+- [ ] 仍在建设中
+- [ ] Typst
 
 
 ## 内容规划
@@ -20,6 +20,11 @@
 - 联系方式（可以留邮箱/社交账号）
 
 ![此处插入图片](images/test01.webp){ width="80%" .center }
+
+<figure markdown>
+  ![示例图片](images/test01.webp){ width="400" }
+  <figcaption>图1: 这是系统架构图，展示了各个模块之间的关系</figcaption>
+</figure>
 
 
 
