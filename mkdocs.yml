@@ -35,6 +35,11 @@ theme:
     - search.share
     - toc.follow
 
+extra_css:
+  - extra.css
+
+extra_javascript:
+  - extra.js
 nav:
   - 🏡 主页:
       - 首页: index.md
@@ -116,6 +121,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
     
+
 
 
 
