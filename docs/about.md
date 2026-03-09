@@ -1,17 +1,19 @@
-# Welcome to  Zyphren's notebook! 
-
-
+WELCOME TO ZYPHREN`S BLOG
 !!! abstract
 
-    本站是基于mkdocs搭建的个人博客，记录了一些笔记与总结。
-
-
+    本站是基于 MkDocs 搭建的个人博客，记录了一些笔记与总结。
 
 # Table of Contents
-
 - [ ] 仍在建设中
 - [ ] Typst
 
+???+ info inline "统计！"
+    <center>2421424452445</center>
+    
+    <center>198790132749</center>
+
+???+ warning "施工中！"
+    - [Waether](https://www.meteoblue.com/en/weather/week/beijing_china_1816670)（？）
 
 ## 内容规划
 后续会在这里更新：
@@ -21,10 +23,8 @@
 
 ![此处插入图片](images/test01.webp){ width="80%" .center }
 
-<figure markdown>
-  ![示例图片](images/test01.webp){ width="400" }
-  <figcaption>图1: 这是系统架构图，展示了各个模块之间的关系</figcaption>
-</figure>
+<center><img src="images/test01.webp"/></center>
+
 
 
 
