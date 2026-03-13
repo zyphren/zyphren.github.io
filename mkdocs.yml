@@ -43,7 +43,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - 📚 第二个页面: 
-        - TSET: second.md
+        - TSET: reading.md
         - INDEX: TEST.md
         - 课程概览: course-guide.md
         - Python 学习: python-study.md
