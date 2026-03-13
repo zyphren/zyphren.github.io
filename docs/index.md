@@ -4,14 +4,14 @@
     This site is a personal blog built with MkDocs, where I share some notes and summaries.
 
 # Table of Contents
-Under construction and tings to learn
+???+ info "Under construction and things to learn"  
     - [x] Mkdocs materials
     - [ ] CSS HTML
     - [ ] Typst
     - [x] climate index 
     - [ ] git
     - [ ] precipitation
-
+    
 ???+ success inline "Note list"
     <center>Analytical Mechanics</center>
     <center>Rigid Body Dynamics</center>
@@ -27,6 +27,7 @@ Under construction and tings to learn
 - Contact information (email/social media accounts available)
 
  ![此处插入图片](images/test01.webp){ width="80%" align=center }
+
 
 
 
