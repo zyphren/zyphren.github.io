@@ -7,7 +7,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
+      primary: teal
       accent: blue
       toggle:
         icon: material/weather-sunny
