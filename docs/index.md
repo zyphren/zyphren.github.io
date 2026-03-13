@@ -1,12 +1,16 @@
 # WELCOME TO ZYPHREN`S BLOG
 
 !!! abstract
-    本站是基于 MkDocs 搭建的个人博客，记录了一些笔记与总结。
+    This site is a personal blog built with MkDocs, where I share some notes and summaries.
 
 # Table of Contents
-- [x] 仍在建设中
-- [x] Typst
+Under construction and tings to learn
+- [x] Mkdocs materials
+- [ ] CSS HTML
+- [ ] Typst
+- [x] climate index 
 - [ ] git
+- [ ] precipitation
 
 ???+ success inline "Note list"
     <center>Analytical Mechanics</center>
@@ -17,13 +21,14 @@
     - [Mechanics of materials solver](https://framecalc.aeutlook.com/zh)
     
 
-# 内容规划
-后续会在这里更新：
-- 学习笔记（比如 MkDocs 进阶技巧）
-- 日常分享（生活/技术类内容）
-- 联系方式（可以留邮箱/社交账号）
-
+## Future updates will include:
+- Study notes (e.g., advanced MkDocs techniques)
+- Daily shares (life/technology related)
+- Contact information (email/social media accounts available)
+## Stars droop over the wide plain;
+Moon glides along the great river
 % ![此处插入图片](images/test01.webp){ width="80%" align=center }
+
 
 
 
