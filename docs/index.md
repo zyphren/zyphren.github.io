@@ -7,7 +7,7 @@
 - [ ] 仍在建设中
 - [ ] Typst
 
-???+ success "统计中？"
+???+ success inline "统计中？"
     <center>132347913743</center>
     
     <center>198790132749</center>
@@ -22,6 +22,7 @@
 - 联系方式（可以留邮箱/社交账号）
 
 ![此处插入图片](images/test01.webp){ width="80%" align=center }
+
 
 
 
