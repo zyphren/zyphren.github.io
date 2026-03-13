@@ -5,12 +5,12 @@
 
 # Table of Contents
 Under construction and tings to learn
-- [x] Mkdocs materials
-- [ ] CSS HTML
-- [ ] Typst
-- [x] climate index 
-- [ ] git
-- [ ] precipitation
+    - [x] Mkdocs materials
+    - [ ] CSS HTML
+    - [ ] Typst
+    - [x] climate index 
+    - [ ] git
+    - [ ] precipitation
 
 ???+ success inline "Note list"
     <center>Analytical Mechanics</center>
@@ -25,9 +25,9 @@ Under construction and tings to learn
 - Study notes (e.g., advanced MkDocs techniques)
 - Daily shares (life/technology related)
 - Contact information (email/social media accounts available)
-## Stars droop over the wide plain;
-Moon glides along the great river
-% ![此处插入图片](images/test01.webp){ width="80%" align=center }
+
+ ![此处插入图片](images/test01.webp){ width="80%" align=center }
+
 
 
 
