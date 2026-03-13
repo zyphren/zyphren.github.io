@@ -41,19 +41,17 @@ extra_css:
 extra_javascript:
   - extra.js
 nav:
-  - 🏡 主页:
-      - About: about.md
-      - Sparkle: trial.md
+  - Home: index.md
   - 📚 第二个页面: 
         - TSET: second.md
         - INDEX: TEST.md
         - 课程概览: course-guide.md
         - Python 学习: python-study.md
-  - 📄 第三个页面: third.md
-  - 📝 论文:
+  - NOTE: third.md
+  - 论文:
       - 论文阅读: papers.md
-  - 🎲 杂项: others.md
-  - 🔗 友链: friends.md
+  - 杂项: others.md
+  - 友链: friends.md
 
 plugins:
   - search:
@@ -120,6 +118,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
     
+
 
 
 
