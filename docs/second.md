@@ -1,7 +1,12 @@
-芯片制程中的 “3nm”“5nm” 等节点名称，确实早已偏离了物理意义上的 “栅极长度”（Gate Length），更多成为行业约定的技术代际标识，这一现象的本质是技术演进与商业宣传共同作用的结果。以下从技术原理和行业逻辑两方面具体解释：    
-早期制程节点（如 90nm、45nm）确实直接对应栅极长度（晶体管中控制电流通断的关键结构尺寸），但随着半导体工艺进入 FinFET（鳍式场效应晶体管）乃至 GAA（全环绕栅极）时代，单纯的 “栅极长度” 已无法全面衡量芯片性能。   
-- 5nm 工艺的实际栅极长度约为 10-12nm，3nm 工艺则在 7-8nm 左右，远大于标称值。
-- 物理上，当栅极长度接近 1nm 时，会因量子隧穿效应（电子不受控制地穿过栅极绝缘层）导致晶体管失效，目前的材料和结构难以突破这一极限。硅原子0.235nm
-如今的 “nm 级” 节点更多代表**晶体管密度**（每平方毫米的晶体管数量）和**结构创新**，而非单一尺寸：不同厂商的 “定义差异”
-由于没有统一的国际标准，不同厂商对 “nm 节点” 的定义存在偏差：
-台积电、三星、英特尔的 5nm/3nm 工艺，在晶体管密度、功耗控制等核心指标上并不完全一致;intel>台积电>三星
+In chip manufacturing, the node names such as "3nm" and "5nm" have long departed from their **physical meaning as gate length**. Instead, they have become more of an industry convention for marking technological generations. This phenomenon is essentially the result of a combination of technical evolution and commercial promotion. The following explains this from both technical principles and industry logic:
+
+Early process nodes (such as 90nm and 45nm) did directly correspond to the gate length—the key structural size in transistors that controls the flow of current. However, as semiconductor technology entered the era of FinFET (Fin Field-Effect Transistor) and then GAA (Gate-All-Around), a single "gate length" is no longer sufficient to fully measure chip performance.
+
+- The actual gate length of the 5nm process is approximately 10–12nm, and that of the 3nm process is around 7–8nm, both significantly larger than the nominal value.
+- Physically, when the gate length approaches 1nm, quantum tunneling effects cause electrons to pass through the gate insulator uncontrollably, leading to transistor failure. Current materials and structures cannot easily break this limit. (The diameter of a silicon atom is 0.235nm.)
+
+Today’s "nm‑level" nodes mainly represent **transistor density** (the number of transistors per square millimeter) and **structural innovation**, rather than a single physical dimension. There are also **definition differences** among manufacturers:
+In the absence of a unified international standard, different companies define "nm nodes" in varying ways:
+The core metrics such as transistor density and power consumption control for 5nm/3nm processes from TSMC, Samsung, and Intel are not completely consistent.
+**Intel > TSMC > Samsung**
+
