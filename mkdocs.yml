@@ -43,11 +43,14 @@ extra_javascript:
 nav:
   - Home: index.md
   - 📚 第二个页面: 
-        - TSET: reading.md
+        - TEST: reading.md
         - INDEX: TEST.md
         - 课程概览: course-guide.md
         - Python 学习: python-study.md
-  - NOTE: third.md
+  - NOTE: 
+      - third.md
+      - Advanced Dynamics: courses/Advanced-Dynamics.md
+      - Thermodynamics: courses/Thermodynamics.md
   - 论文:
       - 论文阅读: papers.md
   - 杂项: others.md
