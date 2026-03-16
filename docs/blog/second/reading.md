@@ -34,10 +34,7 @@ $$ \oint_C \frac{a_{-1}}{z-z_0} \, dz = a_{-1} \cdot 2\pi i $$
     ![图片1](images/pic1.png){ align=center width=45% }
     ![图片2](images/pic2.png){ align=center width=45% }
 
----
-<center>          <!-- 第一部分：居中容器标签 -->
-  <img src="images/pic1.png"/>  <!-- 第二部分：图片标签 -->
-</center>         <!-- 第三部分：闭合居中容器 -->
+
 
 ### 2. 留数定理公式
 
