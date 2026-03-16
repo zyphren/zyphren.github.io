@@ -17,22 +17,24 @@
 任何一个在奇点 $z_0$ 附近解析的函数 $f(z)$，都可以展开成如下形式：
 $$ f(z) = \cdots + \frac{a_{-2}}{(z-z_0)^2} + \frac{a_{-1}}{z-z_0} + a_0 + a_1(z-z_0) + \cdots $$
 
+<img src="docs/images/pic1.png" alt="图片描述" width="300">
+
 当我们对这个函数沿包围 $z_0$ 的小闭曲线 $C$ 积分时，神奇的事情发生了：
 *   对于 $(z-z_0)^n$ （$n \neq -1$），其原函数是单值的，绕一圈积分结果为 **0**。
 *   唯独对于 $\frac{1}{z-z_0}$ （$n = -1$），其原函数是对数函数 $\ln(z-z_0)$（多值函数），绕一圈积分结果为 **$2\pi i$**。
 
 $$ \oint_C \frac{a_{-1}}{z-z_0} \, dz = a_{-1} \cdot 2\pi i $$
 
+![带标题的图片](docs/images/pic2.png "这是图片标题")
+
 **结论**：积分算完后，其他项都“消失”了，只有 $a_{-1}$ 这一项“留”了下来。
 所以，$a_{-1}$ 被称为**留数（Residue）**，记作 $\text{Res}(f, z_0)$。
 
-![示例图片](images/pic1.png){ align=center }
----
-![示例图片2](images/pic1.png){ align=center width=50% }
+
 
 ???+ info "图片示例组"
-    ![图片1](images/pic1.png){ align=center width=45% }
-    ![图片2](images/pic2.png){ align=center width=45% }
+    ![图片1](docs/images/pic1.png){ align=center width=45% }
+    ![图片2](docs/images/pic2.png){ align=center width=45% }
 
 
 

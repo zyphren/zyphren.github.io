@@ -43,9 +43,8 @@ extra_javascript:
 nav:
   - Home: index.md
   - 📚 第二个页面: 
-        - second/about.md
         - TEST: second/reading.md
-        - INDEX: second/TEST.md
+        - Writing: second/TEST.md
         - 课程概览: second/course-guide.md
         - Python 学习: second/python-study.md
   - NOTE: 
