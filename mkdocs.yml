@@ -48,7 +48,9 @@ nav:
         - 课程概览: second/course-guide.md
         - Python 学习: second/python-study.md
   - NOTE: 
-      - courses/third.md
+      - English Proficiency Training: 
+         - Speaking: courses/third.md
+         - ILETS: coures/IELTS.md
       - Advanced Dynamics: courses/Advanced-Dynamics.md
       - Thermodynamics: courses/Thermodynamics.md
   - 论文:
