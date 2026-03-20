@@ -51,6 +51,7 @@ nav:
       - English Proficiency Training: 
          - Speaking: courses/third.md
          - ILETS: courses/IELTS.md
+         - CET-6: courses/CET6.md
       - Advanced Dynamics: courses/Advanced-Dynamics.md
       - Thermodynamics: courses/Thermodynamics.md
   - 论文:
