@@ -45,19 +45,19 @@ nav:
   - 📚 第二个页面: 
         - TEST: second/reading.md
         - Writing: second/TEST.md
-        - 课程概览: second/course-guide.md
         - Python 学习: second/python-study.md
   - NOTE: 
       - English Proficiency Training: 
          - Speaking: courses/third.md
          - ILETS: courses/IELTS.md
          - CET-6: courses/CET6.md
+         - Translation: courses/CET6-T.md
       - Advanced Dynamics: courses/Advanced-Dynamics.md
       - Thermodynamics: courses/Thermodynamics.md
-  - 论文:
+  - Paper Reading:
       - 论文阅读: papers.md
-  - 杂项: others.md
-  - 友链: friends.md
+  - Others: others.md
+  - Friends: friends.md
 
 plugins:
   - search:
