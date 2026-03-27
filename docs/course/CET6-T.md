@@ -33,6 +33,7 @@
 **首句（话题引入）**——介词短语 + 主语从句（8个高分句型，避免“with the development of”）
 
 *常用句型：*
+
 - There is little doubt that… 毫无疑问...  
 - It cannot be denied that… 不可否认...  
 - It is beyond doubt that… 毫无疑问...  
@@ -42,6 +43,7 @@
 - It goes without saying that… 不用说的是...  
 
 *that 后面跟两种选择：*
+
 - ① ______ plays an extremely important role.  
 - ② Nothing is more important than ______.  
 - *important 可替换为：indispensable / significant / essential / crucial / fundamental*
@@ -73,9 +75,9 @@
 
 ---
 
-**第一方面：背景句 + 论据 + 论点**
+##### 第一方面：背景句 + 论据 + 论点
 
-*背景句（4个角度，根据话题选择）*
+**背景句（4个角度，根据话题选择）**
 1. 社会竞争：In a society where competition in job markets becomes increasingly fierce (stiff),
 2. 科技发展：In an age where globalization and information technology revolution are developing (advancing) rapidly,
 3. 经济发展：In an age where people’s standard of living has been raised significantly,
@@ -96,7 +98,7 @@
 
 *not only…but also… 结构要求*：分“一小一大”两方面（个人/小范围 + 社会/国家/大范围）
 
-*写作素材（可直接套用）*
+**写作素材（可直接套用）**
 - overcome difficulties and challenges 克服困难和挑战
 - achieve success 取得成功
 - accumulate knowledge 增长知识
@@ -113,6 +115,7 @@
 - For instance, Confucius, honored for his success in education and philosophy in ancient times, is always remembered for showing a great respect to others, which makes him the most famous educator and philosopher.
 
 *备选方案*（不会举例时使用）
+
 - 观点选择类：if 虚拟语气（与现在事实相反）  
   *If it were not for the science and technology, our daily life today would not be so convenient and colorful.*
 - 现象解释类：if 条件状语从句  

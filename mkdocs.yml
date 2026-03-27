@@ -48,14 +48,14 @@ nav:
         - Python 学习: second/python-study.md
   - Courses: 
       - English Proficiency Training: 
-         - Speaking: courses/third.md
-         - ILETS: courses/IELTS.md
-         - CET-6: courses/CET6.md
-         - Translation: courses/CET6-T.md
-      - Advanced Dynamics: courses/Advanced-Dynamics.md
+         - Speaking: course/third.md
+         - ILETS: course/IELTS.md
+         - CET-6: course/CET6.md
+         - Translation: course/CET6-T.md
+      - Advanced Dynamics: course/Advanced-Dynamics.md
   - Note: 
-      - Thermodynamics: courses/Thermodynamics.md
-      - Mechanics: courses/mechanics.md
+      - Thermodynamics: course/Thermodynamics.md
+      - Mechanics: course/mechanics.md
   - Paper Reading:
       - 论文阅读: papers.md
   - Others: others.md
