@@ -5,8 +5,6 @@
 
 ---
 
- ![此处插入图片](images/pic01.webp){ width="80%" align=center }
-
 ## 一、雅思写作：主体段落
 
 ### 1. 段落结构标准

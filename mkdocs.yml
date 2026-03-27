@@ -46,14 +46,16 @@ nav:
         - TEST: second/reading.md
         - Writing: second/TEST.md
         - Python 学习: second/python-study.md
-  - NOTE: 
+  - Courses: 
       - English Proficiency Training: 
          - Speaking: courses/third.md
          - ILETS: courses/IELTS.md
          - CET-6: courses/CET6.md
          - Translation: courses/CET6-T.md
       - Advanced Dynamics: courses/Advanced-Dynamics.md
+  - Note: 
       - Thermodynamics: courses/Thermodynamics.md
+      - Mechanics: coures/mechanics.md
   - Paper Reading:
       - 论文阅读: papers.md
   - Others: others.md
@@ -123,6 +125,9 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.escapeall:
+      hardbreak: true  # 单个回车 = 换行
+      nbsp: true       # 空格 = 不断行空格
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js 
